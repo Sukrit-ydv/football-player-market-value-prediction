@@ -162,7 +162,7 @@ football-player-market-value-prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/Sukrit-ydv/football-player-market-value-prediction.git>
 cd football-player-market-value-prediction
 ```
 
@@ -231,5 +231,5 @@ This project was developed for educational and analytical purposes. The predicte
 
 **Sukrit Yadav**
 
-GitHub: 
+GitHub: https://github.com/Sukrit-ydv
 

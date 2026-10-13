@@ -107,8 +107,6 @@ The scouting shortlist is intended to highlight players for further investigatio
 
 The application expects saved models and prediction CSV files to be available at the paths used in the source code.
 
-## 📂 Project Structure
-
 ```text
 football-player-market-value-prediction/
 ├── .vscode/

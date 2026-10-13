@@ -1,4 +1,3 @@
-# football-player-market-value-prediction
 # ⚽ Football Player Market Value Prediction
 
 A machine learning project that predicts football players' end-of-season market values using player statistics and starting market value. The project compares Linear Regression and Random Forest models and provides a menu-driven application for player valuation, model comparison, and scouting analysis.
@@ -30,6 +29,8 @@ The models are evaluated using Mean Absolute Error (MAE) and the R² score. A Py
 The dataset was obtained from **Kaggle** and consists of CSV files containing football player match statistics and market values.
 
 Link: https://www.kaggle.com/datasets/davidcariboo/player-scores
+
+The project uses football player match statistics and market-value data from the dataset on Kaggle. The raw data is cleaned and processed into player-season records for model training and evaluation.
 
 The features used by the models are:
 
@@ -162,7 +163,7 @@ football-player-market-value-prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/Sukrit-ydv/football-player-market-value-prediction.git>
+git clone https://github.com/Sukrit-ydv/football-player-market-value-prediction.git
 cd football-player-market-value-prediction
 ```
 
@@ -231,5 +232,5 @@ This project was developed for educational and analytical purposes. The predicte
 
 **Sukrit Yadav**
 
-GitHub: https://github.com/Sukrit-ydv
+GitHub: [Sukrit Yadav](https://github.com/Sukrit-ydv)
 
